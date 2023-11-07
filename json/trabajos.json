@@ -1,0 +1,12 @@
+[
+    {
+        "nombre": "Facundo Hernández",
+        "telefono": "092741514",
+        "empresa": "Gráfica Gerli",
+        "email": "graficagerli@gmail.com",
+        "trabajo": "boletas",
+        "cantidad": 4,
+        "tamaño": "chicas",
+        "datos": "Las preciso para mañana"
+    }
+]
